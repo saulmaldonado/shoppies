@@ -2,6 +2,8 @@
   "name": "shoppies",
   "version": "0.1.0",
   "private": true,
+  "description": "Movie awards for entrepreneurs",
+  "author": "Saul Maldonado <samaldonado4@gmail.com (https://saulmaldonado.com)>",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -27,5 +29,6 @@
     "prettier": "^2.2.1",
     "typescript": "^4.1.3",
     "typescript-plugin-css-modules": "^3.0.1"
-  }
+  },
+  "license": "MIT"
 }
